@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying Python
+- 💬 Feel free to send me a message if you want!
+- 🔭 I’m currently studying Python, and making tons of dumb bots (you may notice me on your tl)
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
 
 ### How to reach me:
