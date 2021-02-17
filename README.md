@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mts.e/)](https://www.instagram.com/mts.e/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Mtss_e/)](https://twitter.com/Mtss_e/)
-![](https://komarev.com/ghpvc/?username=euMts&color=green)(https://github.com/euMts)
+![](https://komarev.com/ghpvc/?username=euMts&color=green)
