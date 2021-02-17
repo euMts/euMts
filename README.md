@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Feel free to send me a message if you want!
-- 🔭 I’m currently studying Python, and making tons of dumb bots (you may notice me on your tl)
+- 🤔 I'm Matheus Eduardo, and I live in Brasil
+- 📫 My favorite programming language is Python, but we're always learning smth new
+- 🔭 I spend most of my free-time making dumb bots (you may notice me on your tl)
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
 
 ### How to reach me:
