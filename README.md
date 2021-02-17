@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCv3PAuyFwW4BMp-8e34GhpA)](https://www.youtube.com/channel/UCv3PAuyFwW4BMp-8e34GhpA)
 <!-- ![Profile Views Badge](https://komarev.com/ghpvc/?username=euMts&color=green) !-->
 - 🔭 I’m currently studying Python
-- 💬 Take a look at my latest online project: @bot_calor(https://twitter.com/bot_calor)
+- 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
 - 📫 How to reach me: matheusetp@hotmail.com
