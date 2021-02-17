@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying Python
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
 - 📫 How to reach me: matheusetp@hotmail.com <br>
+
+### Connect with me:
+
+
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
