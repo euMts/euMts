@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 <!-- ![Profile Views Badge](https://komarev.com/ghpvc/?username=euMts&color=green) -->
 - 🔭 I’m currently studying Python
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
-- 📫 How to reach me: matheusetp@hotmail.com
-- [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com%2Fmtss_e)](https://twitter.com/Mtss_e)
+- 📫 How to reach me: matheusetp@hotmail.com <br>
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
