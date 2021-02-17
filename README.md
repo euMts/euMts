@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <!-- ![Profile Views Badge](https://komarev.com/ghpvc/?username=euMts&color=green) -->
 - 🔭 I’m currently studying Python
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
-- 📫 How to reach me: matheusetp@hotmail.com <br>
 
-### Connect with me:
+### How to reach me:
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
