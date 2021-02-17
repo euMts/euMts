@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mts.e/)](https://www.instagram.com/mts.e/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Mtss_e/)](https://twitter.com/Mtss_e/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCv3PAuyFwW4BMp-8e34GhpA)]
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCv3PAuyFwW4BMp-8e34GhpA)](https://www.youtube.com/channel/UCv3PAuyFwW4BMp-8e34GhpA)
 <!-- ![Profile Views Badge](https://komarev.com/ghpvc/?username=euMts&color=green) !-->
