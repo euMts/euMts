@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  <a>
-   <output>Olá!</output>
-  </a>
+  <h1>
+   <output>Hi there 👋</output>
+  </h1>
 </p>
 
 <!--
