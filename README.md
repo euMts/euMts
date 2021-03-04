@@ -1,8 +1,6 @@
-<p align="center">
-  <h1 align="center">
-   <output>Hi there 👋</output>
-  </h1>
-</p>
+ <h1 align="center">
+  <output>Hi there 👋</output>
+ </h1>
 
 <!--
 ### Hi there 👋
