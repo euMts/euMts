@@ -26,6 +26,15 @@ Here are some ideas to get you started:
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/Mtss_e">
+    <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" />
+  </a>
+  <a href="https://www.instagram.com/mts.e/">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
+  </a>
+</p>
+
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
 <!-- Last update 17/02/2021 -->
