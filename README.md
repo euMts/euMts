@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
+ [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
+
 -->
 - 🤔 I'm Matheus Eduardo, and I live in Brasil
 - 📫 My favorite programming language is Python, but we're always learning smth new
@@ -20,11 +24,6 @@ Here are some ideas to get you started:
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
 
 ### How to reach me:
-
-<p align=center>
- [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
- [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
-</p>
 
 <p align="center">
   <a href="https://twitter.com/Mtss_e">
@@ -37,4 +36,4 @@ Here are some ideas to get you started:
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 17/02/2021 -->
+<!-- Last update 04/03/2021 -->
