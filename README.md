@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 
  [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
+ 
+ <p align="center">
+  <a href="https://twitter.com/Mtss_e">
+    <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" />
+  </a>
+  <a href="https://www.instagram.com/mts.e/">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
+  </a>
+</p>
 
 -->
 <h3>
@@ -29,12 +38,6 @@ Here are some ideas to get you started:
 - 🔭 I spend most of my free-time making dumb bots (you may notice me on your tl)<br>
 - 💬 Take a look at my latest online project: <a href="https://twitter.com/bot_calor">@bot_calor</a>
 </h3>
-
-<p align="center">
-  <a href="https://www.instagram.com/mts.e/">
-    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
-  </a>
-</p>
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
