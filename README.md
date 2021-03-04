@@ -21,10 +21,12 @@ Here are some ideas to get you started:
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
 
 -->
+<h2>
 - 🤔 I'm Matheus Eduardo, and I live in Brasil
 - 📫 My favorite programming language is Python, but we're always learning smth new
 - 🔭 I spend most of my free-time making dumb bots (you may notice me on your tl)
 - 💬 Take a look at my latest online project: [@bot_calor](https://twitter.com/bot_calor)
+</h2>
 
 <p align="center">
   <a href="https://twitter.com/Mtss_e">
