@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <h1>
+  <h1 align="center">
    <output>Hi there 👋</output>
   </h1>
 </p>
