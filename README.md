@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 - 📫 You can follow me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
 
+ [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
+ [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
+
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
 <!-- Last update 04/03/2021 -->
