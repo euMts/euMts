@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
  
+ 
  <p align="center">
   <a href="https://twitter.com/Mtss_e">
     <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" />
@@ -39,9 +40,6 @@ Here are some ideas to get you started:
 - 💬 Take a look at my latest online project: <a href="https://twitter.com/bot_calor">@bot_calor</a><br>
 - 📫 You can follow me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
-
- [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
- [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
