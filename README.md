@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 -->
 <h3>
-- 🤔 I'm Matheus Eduardo, and I live in Brasil<br>
+- 🤔 I'm Matheus Eduardo, and I live in Brazil<br>
 - ⚡ My favorite programming language is Python, but we're always learning smth new<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
 - 💬 Take a look at my latest online project: <a href="https://twitter.com/bot_calor">@bot_calor</a><br>
