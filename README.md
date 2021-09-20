@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 💬 Take a look at my latest online project: [instaSorteio](instaSorteio)<br>
+- 💬 Take a look at my latest online project:
 
  [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🤔 I'm Matheus Eduardo, and I live in Brazil<br>
 - ⚡ My favorite programming language is Python, but we're always learning smth new<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
-- 💬 Take a look at my latest online project: <a href="https://twitter.com/bot_calor">@bot_calor</a><br>
+- 💬 Take a look at my latest online project: <a href="https://www.github.com/eumts/instasorteio">instaSorteio</a><br>
 - 📫 You can follow me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
 
