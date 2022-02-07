@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 -->
 <h3>
-- 😅 I'm Matheus Eduardo, and I live in Brazil<br>
-- ⚡ My favorite programming language is Python, but we're always learning smth new<br>
+- 😅 I'm Matheus Eduardo and I live in Brazil<br>
+- ⚡ My favorite programming language is Python<br>
 - 🖥️ Currently working with Big Data at Marinho Corp<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
 - 💬 Take a look at my latest online project: <a href="https://www.github.com/eumts/twitter_media_to_discord">Twitter media to Discord</a><br>
