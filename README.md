@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 
 -->
 <h3>
-- 🤔 I'm Matheus Eduardo, and I live in Brazil<br>
+- 😅 I'm Matheus Eduardo, and I live in Brazil<br>
 - ⚡ My favorite programming language is Python, but we're always learning smth new<br>
+- 🖥️ Currently working with Big Data at Marinho Corp<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
-- 💬 Take a look at my latest online project: <a href="https://www.github.com/eumts/instasorteio">instaSorteio</a><br>
-- 📫 You can follow me on <a href="https://instagram.com/mts.e">Instagram</a>
+- 💬 Take a look at my latest online project: <a href="https://www.github.com/eumts/twitter_media_to_discord">Twitter media to Discord</a><br>
+- 📫 You can find me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 04/03/2021 -->
+<!-- Last update 07/02/2022 -->
