@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ My favorite programming language is Python<br>
 - 🖥️ Currently working with Big Data at Marinho Corp<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
-- 💬 Take a look at my latest online project: <a href="https://www.github.com/eumts/twitter_media_to_discord">Twitter media to Discord</a><br>
+- 💬 Take a look at my latest online project: <a href="https://github.com/euMts/Sickomode">Sickomode</a><br>
 - 📫 You can find me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
 
