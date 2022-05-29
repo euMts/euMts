@@ -19,14 +19,10 @@ Here are some ideas to get you started:
 
 - 💬 Take a look at my latest online project:
 
- [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mtss_e)&nbsp;
  [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
  
  
  <p align="center">
-  <a href="https://twitter.com/Mtss_e">
-    <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" />
-  </a>
   <a href="https://www.instagram.com/mts.e/">
     <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
   </a>
@@ -36,7 +32,7 @@ Here are some ideas to get you started:
 <h3>
 - 😅 I'm Matheus Eduardo and I live in Brazil<br>
 - ⚡ My favorite programming language is Python<br>
-- 🖥️ Currently working with Big Data at Marinho Corp<br>
+- 🖥️ Currently working with Big Data and Machine Learning<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
 - 💬 Take a look at my latest online project: <a href="https://github.com/euMts/Sickomode">Sickomode</a><br>
 - 📫 You can find me on <a href="https://instagram.com/mts.e">Instagram</a>
@@ -44,4 +40,4 @@ Here are some ideas to get you started:
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 07/02/2022 -->
+<!-- Last update 29/05/2022 -->
