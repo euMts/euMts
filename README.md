@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 
 ## 📊 Estatísticas de projetos públicos:
 [![card](https://github-readme-stats.vercel.app/api?username=euMts&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![adeliadev](https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
