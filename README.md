@@ -1,8 +1,12 @@
+<!-- Você é um espertinho, sabia? -->
+<!-- You're such a smart guy, huh? -->
+<!-- Last update 27/08/2024 -->
+
+<!--
  <h1 align="center">
   <output>Hi there 👋</output>
  </h1>
 
-<!--
 ### Hi there 👋
 **euMts/euMts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +32,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
--->
 <h3>
 - 😅 I'm Matheus Eduardo and I live in Brazil<br>
 - ⚡ My favorite programming language is Python<br>
@@ -38,6 +41,27 @@ Here are some ideas to get you started:
 - 📫 You can find me on <a href="https://instagram.com/mts.e">Instagram</a>
 </h3>
 
-<!-- Você é um espertinho, sabia? -->
-<!-- You're such a smart guy, huh? -->
-<!-- Last update 29/05/2022 -->
+-->
+# 👋 Boas vindas
+* 🎯 Focado em desenvolver softwares escaláveis acompanhando demandas do mercado
+* 🎓 Formado em Engenharia de Software
+* 💡 Sempre atrás de desafios, nunca estou trabalhando em uma coisa só
+* 💻 Projeto mais recente: [Contador de Perguntas do ChatGPT](https://github.com/euMts/chatgpt_question_count)
+* 📱 Criador de conteúdo no tempo livre, me encontre no [Twitter](https://x.com/devMts_) e [Youtube](https://www.youtube.com/@devmts)
+
+## 💻 Tecnologias:
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/NodeJS-76AC0A?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Postgres-699DC9?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-006239?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-8A225D?style=for-the-badge&logo=linux&logoColor=white">
+</p>
+
+## 📊 Estatísticas de Projetos Públicos:
+[![card](https://github-readme-stats.vercel.app/api?username=euMts&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![adeliadev](https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
