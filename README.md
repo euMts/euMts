@@ -63,5 +63,20 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 Estatísticas de projetos públicos:
-[![card](https://github-readme-stats.vercel.app/api?username=euMts&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img 
+    align="left" 
+    alt="Projects stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=euMts&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="Most used langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
