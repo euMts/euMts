@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 * 🎓 Formado em Engenharia de Software
 * 💡 Sempre atrás de desafios, nunca estou trabalhando em uma coisa só
 * 💻 Projeto mais recente: [Contador de Perguntas do ChatGPT](https://github.com/euMts/chatgpt_question_count)
-* 📱 Criador de conteúdo no tempo livre, me encontre [clicando aqui](https://links.matheuspass.dev) !
+* 📱 Criador de conteúdo no tempo livre, me encontre [clicando aqui](https://matheuspass.dev) !
 
 ## 💻 Tecnologias:
 <p>
