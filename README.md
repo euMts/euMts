@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 * 🎯 Focado em desenvolver softwares escaláveis acompanhando demandas do mercado
 * 🎓 Formado em Engenharia de Software
 * 💡 Sempre atrás de desafios, nunca estou trabalhando em uma coisa só
-* 💻 Projeto mais recente: [Contador de Perguntas do ChatGPT](https://github.com/euMts/chatgpt_question_count)
+* 💻 Projeto mais recente: [Bola de Neve (Calculadora de investimentos)](https://bola-de-neve.matheuspass.dev)
 * 📱 Criador de conteúdo no tempo livre, me encontre [clicando aqui](https://matheuspass.dev) !
 
 ## 💻 Tecnologias:
