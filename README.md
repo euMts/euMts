@@ -1,6 +1,7 @@
+
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 27/08/2024 -->
+<!-- Last update 15/02/2025 -->
 
 <!--
  <h1 align="center">
@@ -23,11 +24,11 @@ Here are some ideas to get you started:
 
 - 💬 Take a look at my latest online project:
 
- [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/mts.e/)&nbsp;
+ [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/devmts_/)&nbsp;
  
  
  <p align="center">
-  <a href="https://www.instagram.com/mts.e/">
+  <a href="https://www.instagram.com/devmts_/">
     <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
   </a>
 </p>
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 - 🖥️ Currently working with Big Data and Machine Learning<br>
 - 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
 - 💬 Take a look at my latest online project: <a href="https://github.com/euMts/Sickomode">Sickomode</a><br>
-- 📫 You can find me on <a href="https://instagram.com/mts.e">Instagram</a>
+- 📫 You can find me on <a href="https://instagram.com/devmts_">Instagram</a>
 </h3>
 
 -->
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 ## 💻 Tecnologias:
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/NodeJS-76AC0A?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">
@@ -60,6 +63,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-8A225D?style=for-the-badge&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-EA2121?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ## 📊 Estatísticas de projetos públicos:
