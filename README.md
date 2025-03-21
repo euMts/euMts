@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/NodeJS-76AC0A?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">
@@ -62,8 +63,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Supabase-006239?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-8A225D?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-EA2121?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-8A225D?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-EA2121?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ## 📊 Estatísticas de projetos públicos:
