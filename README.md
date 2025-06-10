@@ -67,6 +67,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-EA2121?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
+<!--
 ## 📊 Estatísticas de projetos públicos:
 <p>
   <img 
@@ -85,3 +86,4 @@ Here are some ideas to get you started:
   />
 
 </p>
+-->
