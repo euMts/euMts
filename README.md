@@ -1,54 +1,16 @@
 
+
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 15/02/2025 -->
+<!-- Last update 28/03/2026 -->
 
-<!--
- <h1 align="center">
-  <output>Hi there 👋</output>
- </h1>
-
-### Hi there 👋
-**euMts/euMts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 💬 Take a look at my latest online project:
-
- [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/devmts_/)&nbsp;
- 
- 
- <p align="center">
-  <a href="https://www.instagram.com/devmts_/">
-    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
-  </a>
-</p>
-
-<h3>
-- 😅 I'm Matheus Eduardo and I live in Brazil<br>
-- ⚡ My favorite programming language is Python<br>
-- 🖥️ Currently working with Big Data and Machine Learning<br>
-- 🔭 I spend most of my free-time making bots (you may notice me on your tl)<br>
-- 💬 Take a look at my latest online project: <a href="https://github.com/euMts/Sickomode">Sickomode</a><br>
-- 📫 You can find me on <a href="https://instagram.com/devmts_">Instagram</a>
-</h3>
-
--->
 # 👋 Boas vindas
-* 🎯 Focado em desenvolver softwares escaláveis acompanhando demandas do mercado
+* 🎯 Focado em desenvolver software escalável
 * 🎓 Formado em Engenharia de Software
-* 💡 Sempre atrás de desafios, nunca estou trabalhando em uma coisa só
-* 💻 Projeto mais recente: [Bola de Neve (Calculadora de investimentos)](https://bola-de-neve.matheuspass.dev)
-* 📱 Criador de conteúdo no tempo livre, me encontre [clicando aqui](https://matheuspass.dev) !
+* ⏳ Cursando Sistemas para Internet na [Federal do Paraná](https://www.utfpr.edu.br/)
+* 💡 Nunca estou trabalhando em uma coisa só
+* 💻 Projeto mais recente: [PsicoRoom](https://www.psicoroom.com.br/), sistema de gestão para psicólogos
+* 📱 Precisa de ajuda? me encontre [clicando aqui](https://matheuspass.dev)!
 
 ## 💻 Tecnologias:
 <p>
@@ -66,24 +28,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-8A225D?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Java-EA2121?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-
-<!--
-## 📊 Estatísticas de projetos públicos:
-<p>
-  <img 
-    align="left" 
-    alt="Projects stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=euMts&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Github%20-%20euMts" 
-  />
-
-<img 
-      align="left" 
-      alt="Most used langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=euMts&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
-</p>
--->
