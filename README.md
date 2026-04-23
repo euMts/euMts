@@ -2,7 +2,7 @@
 
 <!-- Você é um espertinho, sabia? -->
 <!-- You're such a smart guy, huh? -->
-<!-- Last update 28/03/2026 -->
+<!-- Last update 23/04/2026 -->
 
 # 👋 Boas vindas
 * 🎯 Focado em desenvolver software escalável
