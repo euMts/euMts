@@ -9,7 +9,7 @@
 * 🎓 Formado em Engenharia de Software
 * ⏳ Cursando Sistemas para Internet na [Federal do Paraná](https://www.utfpr.edu.br/)
 * 💡 Nunca estou trabalhando em uma coisa só
-* 💻 Projeto mais recente: [PsicoRoom](https://www.psicoroom.com.br/?utm_source=github&utm_medium=profile&utm_campaign=portfolio), sistema de gestão para psicólogos
+* 💻 Projeto mais recente: [Mandei Currículo](https://www.mandeicurriculo.com.br/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) | Gerador de Currículos com IA
 * 📱 Precisa de ajuda? me encontre [clicando aqui](https://matheuspass.dev)!
 
 ## 💻 Tecnologias:
